@@ -272,4 +272,4 @@ finally:
     # Close the browser
     driver.quit()
   
-  ### Step 5 & Step 6 are not showing in recording of working project.
+ ### Step 5 & Step 6 are not showing in recording of working project because it is not matching with reimbursement for all patients.
